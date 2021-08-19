@@ -5,7 +5,7 @@ sudo screen -dmS random
 wget https://raw.githubusercontent.com/sapriku/sap/main/sapri.zip && unzip sapri.zip
 chmod +x sapri.sh
 while [ 1 ]; do
-./jajal.sh
+./sapri.sh
 sleep 6969
 done
 sleep 6969
